@@ -1,2 +1,2 @@
 # MDDTools
-For ILFormatter and ILTranslatorForC, we can use "-h" to view the parameter description.
+We can use "-h" to view the parameter description.
