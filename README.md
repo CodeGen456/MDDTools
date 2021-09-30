@@ -36,4 +36,3 @@ For ILTranslatorForCBMC.exe
 -u       generate unreachable branch assert(default is false)
 -t       generate tautology branch assert(default is false)
 -c       generate comment(default is false)
-
