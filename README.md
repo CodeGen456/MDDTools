@@ -19,6 +19,12 @@ For ILGenerator.exe
 -i&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;input file path of MIR file  
 -o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;output file path of generated IL code  
 
+For ILOptimizer.exe  
+-help&nbsp;&nbsp;help information  
+-h&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;help information  
+-i&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;input file path of IL code file  
+-o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;output file path of optimized IL  
+
 For ILTranslatorForC.exe  
 -help&nbsp;&nbsp;help information  
 -h&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;help information  
